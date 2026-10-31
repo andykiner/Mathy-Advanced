@@ -1,2 +1,7 @@
 # Mathy-Advanced
-Mathy Advanced is a calculator with many different types of calculations including surface area, area, volume, etc.
+###### MAC
+
+MAC (Mathy Advanced Calculations) is a basic Tkinter project for many calculations usually learned in schools. MAC is **better than** usual, basic calculators. It is 100% free, and is easy to move around.
+
+---
+###### MAC IS STILL IN BETA.
